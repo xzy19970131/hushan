@@ -12,3 +12,7 @@ push test
 
 
 push test 222
+
+
+
+delete  1
